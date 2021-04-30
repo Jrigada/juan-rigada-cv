@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    nombre: Juan Rigada
+    name: Juan Rigada
     tagline: Estudiante de Ingenieria en Sistemas de Informacion
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -18,21 +18,21 @@ sidebar:
     linkedin: juanrigada
     github: Jrigada
 
-    Idioma:
+    languages:
       - idiom: Español
         level: Nativo
 
       - idiom: Ingles
         level: Avanzado
 
-    Intereses:
+    interests:
       - item: Escalada
         link:
 
       - item: Piano
         link:
         
-Acerca de mi:
+career-profile:
     title: Presentacion
     summary: |
       Soy una persona dedicada, enérgica, proactiva y con ganas de
@@ -41,7 +41,7 @@ Acerca de mi:
       Busco poder aplicar los conocimientos adquiridos en mi
       recorrido universitario y desarrollar mi potencial.
 
-Educacion:
+education:
     - degree: Licenciatura en Biotecnologia
       university: Universidad Nacional de Quilmes
       time: 2015 - 2018
@@ -50,7 +50,7 @@ Educacion:
       university: Universidad Tecnologica Nacional de Buenos Aires
       time: 2019 - Actualidad
 
-Experiencia Laboral:
+experiences:
     - role: Secretario Administrativo de oficina contable
       time: 2018 - Actualidad
       details: |
@@ -60,7 +60,7 @@ Experiencia Laboral:
           - Manejo de cuentas contables
 
 skills:
-    title: Skills &amp; Nivel
+    title: Skills
 
     toolset:
       - name: C
