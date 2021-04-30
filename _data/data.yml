@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: juanrigada97@gmai.com
+    email: juanrigada97@gmail.com
     phone: 1161990296
     website: juanrigada.com #do not add http://
     linkedin: juanrigada
@@ -31,8 +31,17 @@ sidebar:
 
       - item: Piano
         link:
+        
+Acerca de mi:
+    title: Presentacion
+    summary: |
+      	Soy una persona dedicada, enérgica, proactiva y con ganas de
+	aprender. Me gusta trabajar en equipos heterogéneos y tengo
+	buenas habilidades interpersonales.
+	Busco poder aplicar los conocimientos adquiridos en mi
+	recorrido universitario y desarrollar mi potencial.
 
-education:
+Educacion:
     - degree: Licenciatura en Biotecnologia
       university: Universidad Nacional de Quilmes
       time: 2015 - 2018
@@ -41,7 +50,7 @@ education:
       university: Universidad Tecnologica Nacional de Buenos Aires
       time: 2019 - Actualidad
 
-experiences:
+Experiencia Laboral:
     - role: Secretario Administrativo de oficina contable
       time: 2018 - Actualidad
       details: |
