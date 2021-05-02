@@ -1,4 +1,4 @@
-#
+﻿#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Juan Rigada
-    tagline: Estudiante de Ingenieria en Sistemas de Informacion
+    tagline: Estudiante de Ingeniería en Sistemas de Información
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,20 +23,20 @@ sidebar:
       - idiom: Español
         level: Nativo
 
-      - idiom: Ingles
+      - idiom: Inglés
         level: Avanzado
 
     interests:
       - item: Escalada deportiva
         link:
 
-      - item: Piano y composicion musical
+      - item: Piano y composición musical
         link:
         
-      - item: Produccion de sonido
+      - item: Producción de sonido
         
 career-profile:
-    title: Presentacion
+    title: Presentación
     summary: |
       Soy una persona dedicada, enérgica, proactiva y con ganas de
       aprender. Me gusta trabajar en equipos heterogéneos y tengo
@@ -45,12 +45,12 @@ career-profile:
       recorrido universitario y desarrollar mi potencial.
 
 education:
-    - degree: Licenciatura en Biotecnologia
+    - degree: Licenciatura en Biotecnología
       university: Universidad Nacional de Quilmes
       time: 2015 - 2018
 
-    - degree: Ingenieria en Sistemas de Informacion
-      university: Universidad Tecnologica Nacional de Buenos Aires
+    - degree: Ingeniería en Sistemas de Información
+      university: Universidad Tecnológica Nacional de Buenos Aires
       time: 2019 - Actualidad
       details: Actualmente cursando el tercer año de la carrera (promedio 8.75)
 
@@ -59,7 +59,7 @@ experiences:
       time: 2018 - Actualidad
       details: |
           - Sueldos
-          - Liquidacion de impuestos
+          - Liquidación de impuestos
           - Conciliaciones Bancarias
           - Manejo de cuentas contables
 
@@ -84,4 +84,5 @@ skills:
 
       - name: Git
         level: 90%
+
 
